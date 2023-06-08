@@ -1,0 +1,4 @@
+artifacts:
+  clf-model:
+    path: ClassificationProject_DVC/model.joblib
+    type: model
