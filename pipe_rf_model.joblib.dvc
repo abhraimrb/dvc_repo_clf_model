@@ -1,0 +1,4 @@
+outs:
+- md5: 8ac980cbcae9d82722d8d18a760baae7
+  size: 5298463
+  path: pipe_rf_model.joblib
